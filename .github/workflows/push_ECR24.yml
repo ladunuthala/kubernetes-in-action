@@ -1,4 +1,4 @@
-name: Deploy to AWS ECR-1
+name: Deploy to AWS ECR-2
 # updated secrets
 on: 
   push:
