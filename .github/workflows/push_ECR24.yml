@@ -1,5 +1,5 @@
 name: Deploy to AWS ECR-2
-# updated secrets
+# updated secrets 0522
 on: 
   push:
     branches: [ master ]
